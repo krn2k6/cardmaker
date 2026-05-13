@@ -44,5 +44,6 @@ form.addEventListener("submit", (dets)=>{
             inp.value = "";
         }
     })
-    
+        //i think you can use forloop here too, 
+        // need to learn some topic from fundamentals again
 })
